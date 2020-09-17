@@ -1,41 +1,38 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.140.1/containers/alpine
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.140.1/containers/typescript-node
 {
-	"name": "Alpine",
+	"name": "Node.js & TypeScript",
 	"build": {
-		// Update 'VARIANT' to pick an Alpine version: 3.10, 3.11, 3.12
-		"args": { "VARIANT": "3.12" }
+		"dockerfile": "Dockerfile",
+		// Update 'VARIANT' to pick a Node version: 10, 12, 14
+		"args": { "VARIANT": "14" }
 	},
-	
-	// Set *default* container specific settings.json values on container create. 
-	"settings": {
-		"terminal.integrated.shell.linux": "/bin/ash",
+
+	// Set *default* container specific settings.json values on container create.
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash",
 		"bookmarks.navigateThroughAllFiles": true,
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	// Note that some extensions may not work in Alpine Linux. See https://aka.ms/vscode-remote/linux.
 	"extensions": [
-		"alefragnani.copy-word",
 		"alefragnani.Bookmarks",
+		"alefragnani.copy-word",
 		"alefragnani.delphi-pack",
 		"alefragnani.jenkins-status",
 		"alefragnani.rtf",
 		"alefragnani.numbered-bookmarks",
 		"alefragnani.project-manager",
 		"alefragnani.read-only-indicator",
-		"alefragnani.tagged-comment",
+		"alefragnani.tagged-comment"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a",
-
-	// Uncomment when using a ptrace-based debugger like C++, Go, and Rust
-	// "runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
+	// "postCreateCommand": "yarn install",
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	// "remoteUser": "vscode"
+	// "remoteUser": "node"
 }
