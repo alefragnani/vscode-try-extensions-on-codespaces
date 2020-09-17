@@ -1,15 +1,15 @@
 # Try VS Code Extensions on Codespaces
 
-The idea of this repo is to be a place where I can test any VS Code extensions on Codespaces.
+The idea of this repo is to be a place where I can test any VS Code extension on Codespaces.
 
-At first, I'll try my own extensions, but it may not be limited to this. I use some extensions on my daily basis so I'll definitely need to know if I will be able to use it also on Codespaces.
+At first, I'll try my own extensions, but it will not be limited to this. I use some extensions on my daily basis so I'll definitely need to know if I can use it on Codespaces.
 
 ## Results
 
 Extension | Status | Details
 --------- | ------ | -------
-[Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) |  ❌ | _doesn't copy content_
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |  ✅
+[Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) |  ❌ | _doesn't copy content_
 [Delphi Extension Pack](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-pack) |  ✅
 [Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) |  ❌ | _unable to install_
 [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) |  ✅
