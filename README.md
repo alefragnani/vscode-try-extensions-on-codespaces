@@ -11,7 +11,7 @@ Extension | Status | Details
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | ✅
 [Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) | ❌ | _doesn't copy the content do clipboard_ ([issue #18](https://github.com/alefragnani/vscode-copy-word/issues/18))
 [Delphi Extension Pack](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-pack) | ✅
-[Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | ❌ | _unable to install the extension_ ([issue #16](https://github.com/alefragnani/vscode-delphi-keybindings/issues/16))
+[Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | ✅
 [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | ✅
 [Jenkins Status](https://marketplace.visualstudio.com/items?itemName=alefragnani.jenkins-status) | ✅
 [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | 🟡 | _only syntax highlight and snippets works! code navigation requires tools to be on Codespaces_ ([issue #66](https://github.com/alefragnani/vscode-language-pascal/issues/66))
