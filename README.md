@@ -9,7 +9,7 @@ At first, I'll try my own extensions, but it will not be limited to this. I use 
 Extension | Status | Details
 --------- | ------ | -------
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | ✅
-[Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) | ❌ | _doesn't copy the content do clipboard_ ([issue #18](https://github.com/alefragnani/vscode-copy-word/issues/18))
+[Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) | 🟡 | _doesn't work on Safari_ ([issue #18](https://github.com/alefragnani/vscode-copy-word/issues/18)) / ([VS Code issue](https://github.com/microsoft/vscode/issues/106997))
 [Delphi Extension Pack](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-pack) | ✅
 [Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | ✅
 [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | ✅
