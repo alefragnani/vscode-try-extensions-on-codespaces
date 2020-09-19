@@ -14,7 +14,7 @@ Extension | Status | Details
 [Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | ✅
 [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | ✅
 [Jenkins Status](https://marketplace.visualstudio.com/items?itemName=alefragnani.jenkins-status) | ✅
-[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | 🟡 | _only syntax highlight and snippets works! code navigation requires tools to be on Codespaces_ ([issue #66](https://github.com/alefragnani/vscode-language-pascal/issues/66))
+[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | 🟡 | _only syntax highlight and snippets works. code navigation requires tools to be installed on Codespaces_ ([issue #66](https://github.com/alefragnani/vscode-language-pascal/issues/66))
 [Pascal Formatter](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal-formatter) | ❌ | _requires  FreePascal PtoP to be installed on Codespaces_ ([issue #24](https://github.com/alefragnani/vscode-pascal-formatter/issues/24))
 [RTF](https://marketplace.visualstudio.com/items?itemName=alefragnani.rtf) | ✅
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | ✅
