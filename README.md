@@ -4,7 +4,7 @@ The idea of this repo is to be a place where I can test any VS Code extension on
 
 At first, I'll try my own extensions, but it will not be limited to this. I use some extensions on my daily basis so I'll definitely need to know if I can use it on Codespaces.
 
-## Results
+## My Extensions
 
 Extension | Status | Details
 --------- | ------ | -------
@@ -21,6 +21,16 @@ Extension | Status | Details
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | ✅
 [Read-only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | 🟡 | _correctly shows the file attribute, but doesn't change it when requested_ ([issue #31](https://github.com/alefragnani/vscode-read-only-indicator/issues/31))
 [Tagged Comment](https://marketplace.visualstudio.com/items?itemName=alefragnani.tagged-comment) | ✅
+
+## Extensions from my daily use
+
+Extension | Status | Details
+--------- | ------ | -------
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | ✅
+[Find Related Files](https://marketplace.visualstudio.com/items?itemName=eamodio.find-related) | ✅
+[Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) | ✅
+[Dimmer](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-dimmer) | ✅
+[CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) | 🟡 | _Correctly records tours but playback is unstable_
 
 ### Legend of annotations:
 
