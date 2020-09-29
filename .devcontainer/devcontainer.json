@@ -24,7 +24,13 @@
 		"alefragnani.numbered-bookmarks",
 		"alefragnani.project-manager",
 		"alefragnani.read-only-indicator",
-		"alefragnani.tagged-comment"
+		"alefragnani.tagged-comment",
+
+		"eamodio.gitlens",
+		"eamodio.find-related",
+		"wmaurer.vscode-jumpy",
+		"hoovercj.vscode-dimmer",
+		"vsls-contrib.codetour"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
