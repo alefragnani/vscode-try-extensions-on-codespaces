@@ -14,12 +14,12 @@ Extension | Status | Details
 [Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | ✅
 [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | ✅
 [Jenkins Status](https://marketplace.visualstudio.com/items?itemName=alefragnani.jenkins-status) | ✅
-[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | 🟡 | _only syntax highlight and snippets works. code navigation requires tools to be installed on Codespaces_ ([issue #66](https://github.com/alefragnani/vscode-language-pascal/issues/66))
-[Pascal Formatter](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal-formatter) | ❌ | _requires  FreePascal PtoP to be installed on Codespaces_ ([issue #24](https://github.com/alefragnani/vscode-pascal-formatter/issues/24))
+[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | ✅ | 
+[Pascal Formatter](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal-formatter) | 🟡 | _Requires FreePascal PtoP to be installed on Codespaces_ ([issue #24](https://github.com/alefragnani/vscode-pascal-formatter/issues/24))
 [RTF](https://marketplace.visualstudio.com/items?itemName=alefragnani.rtf) | ✅
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | ✅
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | ✅
-[Read-only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | 🟡 | _correctly shows the file attribute, but doesn't change it when requested_ ([issue #31](https://github.com/alefragnani/vscode-read-only-indicator/issues/31))
+[Read-only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | ❌ | _Even considereing Codespaces does support file attributes, it does not allow updating the file attribute because of the `Git` integration_
 [Separators](https://marketplace.visualstudio.com/items?itemName=alefragnani.separators) | ✅
 [Tagged Comment](https://marketplace.visualstudio.com/items?itemName=alefragnani.tagged-comment) | ✅
 
@@ -44,7 +44,7 @@ Mark | Description
 
 ## Hosts
 
-I'm using a MacMini running MacOS Catalina and an iPad, both on Safari.
+I'm using a MacMini running MacOS Sequoia and an iPad, both on Safari.
 
 # License
 
